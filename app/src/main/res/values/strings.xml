@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Dance Studio App</string>
+    <string name="dance_studio">Dance Studio</string>
+    <string name="register_now"><u>Sign up now</u></string>
+    <string name="enter_now"><u>Sign in now</u></string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="masterclasses_for_everyone">Masterclasses for everyone</string>
+    <string name="enter">Sign in</string>
+    <string name="register">Sign up</string>
+    <string name="no_account">Haven\'t got an account yet?</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="name_hint">Name</string>
+    <string name="current_masterclasses">Current Masterclasses</string>
+    <string name="add_button">Add</string>
+    <string name="new_masterclass">New Masterclass</string>
+    <string name="enter_the_song">Enter the song title and artist</string>
+    <string name="enter_the_date">Enter the date and time in the format\n hh:mm dd:MM:yyyy</string>
+    <string name="enter_hall">Enter the name of the hall</string>
+    <string name="enter_choreographer">Enter the name of the choreographer</string>
+    <string name="enter_number_of_participants">Enter the maximum number of participants</string>
+    <string name="choreographer"><u>Choreographer:</u></string>
+    <string name="hall"><u>Hall:</u></string>
+    <string name="places_left"><u>Places left:</u></string>
+    <string name="members"><u>Members:</u></string>
+    <string name="sign_up">Take part</string>
+    <string name="fill_fields">Fill in all fields</string>
+    <string name="wrong_format">Wrong data format</string>
+    <string name="sign_out"><u>Sign out</u></string>
+    <string name="delete_button">Delete</string>
+    <string name="taking_part">Taking part</string>
+    <string name="not_take_part">Don\'t take part</string>
+
+</resources>
