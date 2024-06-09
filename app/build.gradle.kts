@@ -3,6 +3,8 @@ plugins {
     id("com.google.gms.google-services")
 }
 
+
+
 android {
     namespace = "com.example.dancestudioapp"
     compileSdk = 34
@@ -10,6 +12,8 @@ android {
     buildFeatures {
         viewBinding = true
     }
+
+
 
     defaultConfig {
         applicationId = "com.example.dancestudioapp"
@@ -44,6 +48,12 @@ dependencies {
     implementation("com.google.android.gms:play-services-tasks:18.1.0")
     implementation("com.google.firebase:firebase-auth:23.0.0")
     implementation("com.google.firebase:firebase-database:21.0.0")
+
+    implementation("androidx.activity:activity-ktx:1.9.0")
+    implementation("com.theartofdev.edmodo:android-image-cropper:2.8.0")
+    implementation("com.github.yalantis:ucrop:2.2.6")
+    implementation("com.github.CanHub:Android-Image-Cropper:4.3.2")
+
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")

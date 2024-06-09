@@ -30,5 +30,10 @@
     <string name="delete_button">Delete</string>
     <string name="taking_part">Taking part</string>
     <string name="not_take_part">Don\'t take part</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My profile</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
